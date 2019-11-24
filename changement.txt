@@ -1,0 +1,8 @@
+If connecting to another wifi:
+
+1) change each ip in haproxy
+2) change ip in php file
+3) change mysql server ip for master by:
+    -changing ip
+    -changing master_log_pos
+    -changing master_log_files
